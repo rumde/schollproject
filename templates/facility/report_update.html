@@ -1,0 +1,38 @@
+﻿{% extends 'accounts/technician/base.html' %}
+{% load static %}
+{% load humanize %}
+{% load crispy_forms_tags %}
+{% block title %} Dashboard {% endblock title %}
+
+
+{% block content %}
+
+<div id="page-wrapper">
+    <div id="page-inner">
+
+        <div class="row">
+            <div class="col-md-12">
+                <h1 class="page-header">
+                    Update Your Assigned Task
+                </h1>
+                <form method="POST" enctype="multipart/form-data">
+                    {% csrf_token %}
+                    <input type="hidden" id="next_url" name="next_url" value="{{request.META.HTTP_REFERER}}">
+                    {{ form|crispy }}
+                    <div class="">
+                        <button class="btn btn-block bg-primary" type="submit">Save</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+        <!-- /. ROW  -->
+        <footer><p> Made with <i class="fa fa-heart text-danger"></i> By: &nbsp;<a href="https://dabolinux.com/" target="_blank">DaboLinux Technologies</a></p></footer>
+    </div>
+    <!-- /. PAGE INNER  -->
+</div>
+<!-- /. PAGE WRAPPER  -->
+{% endblock content %}
+
+{% block extra_head %}{% endblock extra_head %}
+
+{% block extra_script %}{% endblock extra_script %}
