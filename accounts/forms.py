@@ -16,13 +16,7 @@ class UserRegisterForm(UserCreationForm):
             "first_name",
             "other_name",
             "last_name",
-            "gender",
             "phone_number",
-            "image",
-            "dob",
-            "country",
-            "state",
-            "city",
             "department",
         )
 
