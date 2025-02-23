@@ -13716,3 +13716,1046 @@ django.template.exceptions.TemplateDoesNotExist: bootstrap4/uni_form.html
 2025-02-09 17:39:08,489 [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 3342
 2025-02-09 17:39:12,173 [INFO]- "GET /admin/accounts/user/ HTTP/1.1" 200 16061
 2025-02-09 17:39:12,203 [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+2025-02-23 09:38:08,661 [INFO]- Watching for file changes with StatReloader
+2025-02-23 09:40:17,871 [INFO]- Watching for file changes with StatReloader
+2025-02-23 09:40:28,366 [INFO]- "GET / HTTP/1.1" 200 3830
+2025-02-23 09:40:28,481 [INFO]- "GET /facility_mgnstatic/assets/js/morris/morris-0.4.3.min.css HTTP/1.1" 200 443
+2025-02-23 09:40:28,581 [INFO]- "GET /facility_mgnstatic/assets/css/bootstrap.css HTTP/1.1" 200 126499
+2025-02-23 09:40:28,599 [INFO]- "GET /facility_mgnstatic/assets/css/font-awesome.css HTTP/1.1" 200 23081
+2025-02-23 09:40:28,951 [INFO]- "GET /facility_mgnstatic/assets/js/morris/raphael-2.1.0.min.js HTTP/1.1" 200 90656
+2025-02-23 09:40:29,217 [INFO]- "GET /facility_mgnstatic/assets/js/bootstrap.min.js HTTP/1.1" 200 29102
+2025-02-23 09:40:29,294 [INFO]- "GET /facility_mgnstatic/assets/js/custom-scripts.js HTTP/1.1" 200 5920
+2025-02-23 09:40:29,311 [INFO]- "GET /facility_mgnstatic/assets/js/jquery.metisMenu.js HTTP/1.1" 200 1431
+2025-02-23 09:40:29,318 [INFO]- "GET /facility_mgnstatic/assets/css/custom-styles.css HTTP/1.1" 200 7745
+2025-02-23 09:40:29,596 [INFO]- "GET /facility_mgnstatic/assets/js/morris/morris.js HTTP/1.1" 200 69095
+2025-02-23 09:40:29,702 [INFO]- "GET /facility_mgnstatic/assets/js/jquery-1.10.2.js HTTP/1.1" 200 293285
+2025-02-23 09:40:30,328 [INFO]- "GET /facility_mgnstatic/core/repairman.webp HTTP/1.1" 200 178036
+2025-02-23 09:40:30,946 [WARNING]- Not Found: /favicon.ico
+2025-02-23 09:40:30,946 [WARNING]- Not Found: /favicon.ico
+2025-02-23 09:40:30,983 [WARNING]- "GET /favicon.ico HTTP/1.1" 404 4701
+2025-02-23 09:41:06,837 [INFO]- "GET /register/ HTTP/1.1" 200 16364
+2025-02-23 09:58:33,325 [INFO]- C:\Users\CITADLAB16\Desktop\schollproject\facility_mgn\nigeria_states.py changed, reloading.
+2025-02-23 09:58:41,856 [INFO]- Watching for file changes with StatReloader
+2025-02-23 09:59:18,549 [INFO]- C:\Users\CITADLAB16\Desktop\schollproject\facility_mgn\nigeria_states.py changed, reloading.
+2025-02-23 09:59:24,940 [INFO]- Watching for file changes with StatReloader
+2025-02-23 10:00:39,539 [INFO]- C:\Users\CITADLAB16\Desktop\schollproject\accounts\forms.py changed, reloading.
+2025-02-23 10:00:54,217 [INFO]- Watching for file changes with StatReloader
+2025-02-23 10:01:05,202 [INFO]- "GET /login/ HTTP/1.1" 200 3830
+2025-02-23 10:01:05,275 [INFO]- "GET /facility_mgnstatic/assets/css/bootstrap.css HTTP/1.1" 304 0
+2025-02-23 10:01:05,290 [INFO]- "GET /facility_mgnstatic/assets/css/font-awesome.css HTTP/1.1" 304 0
+2025-02-23 10:01:05,298 [INFO]- "GET /facility_mgnstatic/assets/js/morris/morris-0.4.3.min.css HTTP/1.1" 304 0
+2025-02-23 10:01:05,305 [INFO]- "GET /facility_mgnstatic/assets/js/jquery-1.10.2.js HTTP/1.1" 304 0
+2025-02-23 10:01:05,306 [INFO]- "GET /facility_mgnstatic/assets/js/bootstrap.min.js HTTP/1.1" 304 0
+2025-02-23 10:01:05,313 [INFO]- "GET /facility_mgnstatic/assets/js/custom-scripts.js HTTP/1.1" 304 0
+2025-02-23 10:01:05,314 [INFO]- "GET /facility_mgnstatic/assets/css/custom-styles.css HTTP/1.1" 304 0
+2025-02-23 10:01:05,323 [INFO]- "GET /facility_mgnstatic/assets/js/jquery.metisMenu.js HTTP/1.1" 304 0
+2025-02-23 10:01:05,334 [INFO]- "GET /facility_mgnstatic/assets/js/morris/raphael-2.1.0.min.js HTTP/1.1" 304 0
+2025-02-23 10:01:05,334 [INFO]- "GET /facility_mgnstatic/assets/js/morris/morris.js HTTP/1.1" 304 0
+2025-02-23 10:01:06,156 [INFO]- "GET /facility_mgnstatic/core/repairman.webp HTTP/1.1" 304 0
+2025-02-23 10:01:08,175 [INFO]- "GET /register/ HTTP/1.1" 200 4944
+2025-02-23 10:05:21,936 [INFO]- Watching for file changes with StatReloader
+2025-02-23 10:05:28,809 [INFO]- "GET /admin/ HTTP/1.1" 302 0
+2025-02-23 10:05:29,346 [INFO]- "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4232
+2025-02-23 10:05:29,450 [INFO]- "GET /facility_mgnstatic/admin/css/base.css HTTP/1.1" 200 22092
+2025-02-23 10:05:29,463 [INFO]- "GET /facility_mgnstatic/admin/css/dark_mode.css HTTP/1.1" 200 2804
+2025-02-23 10:05:29,479 [INFO]- "GET /facility_mgnstatic/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+2025-02-23 10:05:29,512 [INFO]- "GET /facility_mgnstatic/admin/css/login.css HTTP/1.1" 200 951
+2025-02-23 10:05:29,528 [INFO]- "GET /facility_mgnstatic/admin/css/responsive.css HTTP/1.1" 200 17972
+2025-02-23 10:05:29,544 [INFO]- "GET /facility_mgnstatic/admin/js/theme.js HTTP/1.1" 200 1653
+2025-02-23 10:05:30,167 [INFO]- "GET /facility_mgnstatic/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+2025-02-23 10:05:44,896 [INFO]- "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+2025-02-23 10:05:44,994 [INFO]- "GET /admin/ HTTP/1.1" 200 9231
+2025-02-23 10:05:45,243 [INFO]- "GET /facility_mgnstatic/admin/css/dashboard.css HTTP/1.1" 200 441
+2025-02-23 10:05:45,434 [INFO]- "GET /facility_mgnstatic/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+2025-02-23 10:05:45,437 [INFO]- "GET /facility_mgnstatic/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+2025-02-23 10:05:55,346 [INFO]- "GET /admin/accounts/department/ HTTP/1.1" 200 14917
+2025-02-23 10:05:55,446 [INFO]- "GET /facility_mgnstatic/admin/css/changelists.css HTTP/1.1" 200 6878
+2025-02-23 10:05:55,531 [INFO]- "GET /facility_mgnstatic/admin/js/jquery.init.js HTTP/1.1" 200 347
+2025-02-23 10:05:55,831 [INFO]- "GET /facility_mgnstatic/admin/js/actions.js HTTP/1.1" 200 8076
+2025-02-23 10:05:55,850 [INFO]- "GET /facility_mgnstatic/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 9097
+2025-02-23 10:05:55,854 [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+2025-02-23 10:05:55,855 [INFO]- "GET /facility_mgnstatic/admin/js/urlify.js HTTP/1.1" 200 7887
+2025-02-23 10:05:55,911 [INFO]- "GET /facility_mgnstatic/admin/js/prepopulate.js HTTP/1.1" 200 1531
+2025-02-23 10:05:56,019 [INFO]- "GET /facility_mgnstatic/admin/js/core.js HTTP/1.1" 200 6208
+2025-02-23 10:05:56,166 [INFO]- "GET /facility_mgnstatic/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 285314
+2025-02-23 10:05:56,229 [INFO]- "GET /facility_mgnstatic/admin/js/filters.js HTTP/1.1" 200 978
+2025-02-23 10:05:56,262 [INFO]- "GET /facility_mgnstatic/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 325171
+2025-02-23 10:05:56,313 [INFO]- "GET /facility_mgnstatic/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+2025-02-23 10:05:56,317 [INFO]- "GET /facility_mgnstatic/admin/img/sorting-icons.svg HTTP/1.1" 200 1097
+2025-02-23 10:05:56,454 [INFO]- "GET /facility_mgnstatic/admin/img/icon-viewlink.svg HTTP/1.1" 200 581
+2025-02-23 10:06:09,895 [INFO]- "POST /admin/accounts/department/ HTTP/1.1" 200 9554
+2025-02-23 10:06:10,162 [INFO]- "GET /facility_mgnstatic/admin/js/cancel.js HTTP/1.1" 200 884
+2025-02-23 10:06:31,178 [INFO]- "GET /admin/facility/report/1/change/ HTTP/1.1" 200 20134
+2025-02-23 10:06:31,258 [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+2025-02-23 10:06:31,259 [INFO]- "GET /facility_mgnstatic/admin/css/forms.css HTTP/1.1" 200 8794
+2025-02-23 10:06:31,293 [INFO]- "GET /facility_mgnstatic/admin/js/prepopulate_init.js HTTP/1.1" 200 586
+2025-02-23 10:06:31,571 [INFO]- "GET /facility_mgnstatic/admin/css/widgets.css HTTP/1.1" 200 11564
+2025-02-23 10:06:31,580 [INFO]- "GET /facility_mgnstatic/admin/img/icon-deletelink.svg HTTP/1.1" 200 392
+2025-02-23 10:06:31,635 [INFO]- "GET /facility_mgnstatic/admin/img/tooltag-arrowright.svg HTTP/1.1" 200 280
+2025-02-23 10:06:31,650 [INFO]- "GET /facility_mgnstatic/admin/js/change_form.js HTTP/1.1" 200 606
+2025-02-23 10:06:40,897 [INFO]- "GET /admin/accounts/department/ HTTP/1.1" 200 14917
+2025-02-23 10:06:41,159 [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+2025-02-23 10:06:46,894 [INFO]- "GET /admin/accounts/department/add/ HTTP/1.1" 200 16082
+2025-02-23 10:06:47,192 [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+2025-02-23 10:07:43,297 [INFO]- "POST /admin/accounts/department/add/ HTTP/1.1" 302 0
+2025-02-23 10:07:43,360 [INFO]- "GET /admin/accounts/department/ HTTP/1.1" 200 15691
+2025-02-23 10:07:43,537 [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+2025-02-23 10:07:43,860 [INFO]- "GET /facility_mgnstatic/admin/img/icon-yes.svg HTTP/1.1" 200 436
+2025-02-23 10:08:01,915 [INFO]- "GET / HTTP/1.1" 200 3830
+2025-02-23 10:08:02,035 [INFO]- "GET /facility_mgnstatic/assets/css/bootstrap.css HTTP/1.1" 200 126499
+2025-02-23 10:08:02,039 [INFO]- "GET /facility_mgnstatic/assets/js/morris/morris-0.4.3.min.css HTTP/1.1" 200 443
+2025-02-23 10:08:02,039 [INFO]- "GET /facility_mgnstatic/assets/css/font-awesome.css HTTP/1.1" 200 23081
+2025-02-23 10:08:02,073 [INFO]- "GET /facility_mgnstatic/assets/css/custom-styles.css HTTP/1.1" 200 7745
+2025-02-23 10:08:02,154 [INFO]- "GET /facility_mgnstatic/assets/js/bootstrap.min.js HTTP/1.1" 200 29102
+2025-02-23 10:08:02,184 [INFO]- "GET /facility_mgnstatic/assets/js/jquery.metisMenu.js HTTP/1.1" 200 1431
+2025-02-23 10:08:02,197 [INFO]- "GET /facility_mgnstatic/assets/js/jquery-1.10.2.js HTTP/1.1" 200 293285
+2025-02-23 10:08:02,248 [INFO]- "GET /facility_mgnstatic/assets/js/custom-scripts.js HTTP/1.1" 200 5920
+2025-02-23 10:08:02,255 [INFO]- "GET /facility_mgnstatic/assets/js/morris/morris.js HTTP/1.1" 200 69095
+2025-02-23 10:08:02,255 [INFO]- "GET /facility_mgnstatic/assets/js/morris/raphael-2.1.0.min.js HTTP/1.1" 200 90656
+2025-02-23 10:08:03,332 [INFO]- "GET /facility_mgnstatic/core/repairman.webp HTTP/1.1" 200 178036
+2025-02-23 10:08:03,956 [WARNING]- Not Found: /favicon.ico
+2025-02-23 10:08:03,956 [WARNING]- Not Found: /favicon.ico
+2025-02-23 10:08:03,956 [WARNING]- "GET /favicon.ico HTTP/1.1" 404 4701
+2025-02-23 10:08:06,373 [INFO]- "GET /register/ HTTP/1.1" 200 4991
+2025-02-23 10:08:16,239 [INFO]- "GET /admin/accounts/department/add/ HTTP/1.1" 200 16082
+2025-02-23 10:08:16,547 [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+2025-02-23 10:08:44,489 [INFO]- "POST /admin/accounts/department/add/ HTTP/1.1" 302 0
+2025-02-23 10:08:44,540 [INFO]- "GET /admin/accounts/department/ HTTP/1.1" 200 16258
+2025-02-23 10:08:44,787 [INFO]- "GET /facility_mgnstatic/admin/css/base.css HTTP/1.1" 304 0
+2025-02-23 10:08:44,874 [INFO]- "GET /facility_mgnstatic/admin/css/dark_mode.css HTTP/1.1" 304 0
+2025-02-23 10:08:44,884 [INFO]- "GET /facility_mgnstatic/admin/js/theme.js HTTP/1.1" 304 0
+2025-02-23 10:08:44,885 [INFO]- "GET /facility_mgnstatic/admin/css/responsive.css HTTP/1.1" 304 0
+2025-02-23 10:08:44,886 [INFO]- "GET /facility_mgnstatic/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+2025-02-23 10:08:44,895 [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+2025-02-23 10:08:44,962 [INFO]- "GET /facility_mgnstatic/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+2025-02-23 10:08:47,725 [INFO]- "GET /admin/accounts/department/add/ HTTP/1.1" 200 16082
+2025-02-23 10:08:47,979 [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+2025-02-23 10:09:19,444 [INFO]- "POST /admin/accounts/department/add/ HTTP/1.1" 302 0
+2025-02-23 10:09:19,500 [INFO]- "GET /admin/accounts/department/ HTTP/1.1" 200 16809
+2025-02-23 10:09:19,645 [INFO]- "GET /facility_mgnstatic/admin/css/changelists.css HTTP/1.1" 304 0
+2025-02-23 10:09:19,661 [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+2025-02-23 10:09:19,661 [INFO]- "GET /facility_mgnstatic/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+2025-02-23 10:09:19,676 [INFO]- "GET /facility_mgnstatic/admin/js/jquery.init.js HTTP/1.1" 304 0
+2025-02-23 10:09:19,676 [INFO]- "GET /facility_mgnstatic/admin/js/core.js HTTP/1.1" 304 0
+2025-02-23 10:09:19,676 [INFO]- "GET /facility_mgnstatic/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+2025-02-23 10:09:19,692 [INFO]- "GET /facility_mgnstatic/admin/js/actions.js HTTP/1.1" 304 0
+2025-02-23 10:09:19,708 [INFO]- "GET /facility_mgnstatic/admin/js/urlify.js HTTP/1.1" 304 0
+2025-02-23 10:09:19,708 [INFO]- "GET /facility_mgnstatic/admin/js/prepopulate.js HTTP/1.1" 304 0
+2025-02-23 10:09:19,708 [INFO]- "GET /facility_mgnstatic/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+2025-02-23 10:09:19,945 [INFO]- "GET /facility_mgnstatic/admin/js/filters.js HTTP/1.1" 304 0
+2025-02-23 10:09:24,269 [INFO]- "GET /admin/accounts/department/add/ HTTP/1.1" 200 16082
+2025-02-23 10:09:24,572 [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+2025-02-23 10:09:24,773 [INFO]- "GET /facility_mgnstatic/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+2025-02-23 10:09:55,767 [INFO]- "POST /admin/accounts/department/add/ HTTP/1.1" 200 16306
+2025-02-23 10:09:56,123 [INFO]- "GET /facility_mgnstatic/admin/css/forms.css HTTP/1.1" 304 0
+2025-02-23 10:09:56,123 [INFO]- "GET /facility_mgnstatic/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+2025-02-23 10:09:56,137 [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+2025-02-23 10:09:56,333 [INFO]- "GET /facility_mgnstatic/admin/css/widgets.css HTTP/1.1" 304 0
+2025-02-23 10:09:56,352 [INFO]- "GET /facility_mgnstatic/admin/js/change_form.js HTTP/1.1" 304 0
+2025-02-23 10:10:08,176 [INFO]- "POST /admin/accounts/department/add/ HTTP/1.1" 302 0
+2025-02-23 10:10:08,233 [INFO]- "GET /admin/accounts/department/ HTTP/1.1" 200 17436
+2025-02-23 10:10:08,501 [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+2025-02-23 10:10:08,761 [INFO]- "GET /facility_mgnstatic/admin/img/sorting-icons.svg HTTP/1.1" 304 0
+2025-02-23 10:10:08,762 [INFO]- "GET /facility_mgnstatic/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+2025-02-23 10:10:08,770 [INFO]- "GET /facility_mgnstatic/admin/img/icon-viewlink.svg HTTP/1.1" 304 0
+2025-02-23 10:10:29,733 [INFO]- "GET /admin/accounts/department/1/change/ HTTP/1.1" 200 16359
+2025-02-23 10:10:30,057 [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+2025-02-23 10:10:42,161 [INFO]- "POST /admin/accounts/department/1/change/ HTTP/1.1" 302 0
+2025-02-23 10:10:42,221 [INFO]- "GET /admin/accounts/department/ HTTP/1.1" 200 17420
+2025-02-23 10:10:42,421 [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+2025-02-23 10:10:46,124 [INFO]- "GET /register/ HTTP/1.1" 200 5160
+2025-02-23 10:11:00,656 [INFO]- "GET /admin/accounts/department/1/change/ HTTP/1.1" 200 16359
+2025-02-23 10:11:00,914 [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+2025-02-23 10:11:07,867 [INFO]- "POST /admin/accounts/department/1/change/ HTTP/1.1" 302 0
+2025-02-23 10:11:07,898 [INFO]- "GET /admin/accounts/department/add/ HTTP/1.1" 200 16342
+2025-02-23 10:11:08,065 [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+2025-02-23 10:11:08,342 [INFO]- "GET /facility_mgnstatic/admin/img/icon-yes.svg HTTP/1.1" 304 0
+2025-02-23 10:11:11,692 [INFO]- "GET /register/ HTTP/1.1" 200 5160
+2025-02-23 10:11:23,231 [INFO]- "GET /admin/accounts/department/1/change/ HTTP/1.1" 200 16359
+2025-02-23 10:11:23,448 [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+2025-02-23 10:11:26,736 [INFO]- "GET /admin/accounts/department/ HTTP/1.1" 200 17197
+2025-02-23 10:11:26,870 [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+2025-02-23 10:11:44,813 [INFO]- "POST /admin/accounts/department/ HTTP/1.1" 200 9554
+2025-02-23 10:11:45,056 [INFO]- "GET /facility_mgnstatic/admin/js/cancel.js HTTP/1.1" 304 0
+2025-02-23 10:11:55,779 [INFO]- "GET /admin/facility/report/1/change/ HTTP/1.1" 200 20292
+2025-02-23 10:11:56,030 [INFO]- "GET /facility_mgnstatic/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+2025-02-23 10:11:56,044 [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+2025-02-23 10:11:56,165 [INFO]- "GET /facility_mgnstatic/admin/img/icon-deletelink.svg HTTP/1.1" 304 0
+2025-02-23 10:11:56,207 [INFO]- "GET /facility_mgnstatic/admin/img/tooltag-arrowright.svg HTTP/1.1" 304 0
+2025-02-23 10:12:05,312 [INFO]- "GET /admin/facility/report/1/delete/ HTTP/1.1" 200 9858
+2025-02-23 10:12:05,456 [INFO]- "GET /facility_mgnstatic/admin/css/base.css HTTP/1.1" 304 0
+2025-02-23 10:12:05,456 [INFO]- "GET /facility_mgnstatic/admin/js/theme.js HTTP/1.1" 304 0
+2025-02-23 10:12:05,457 [INFO]- "GET /facility_mgnstatic/admin/css/dark_mode.css HTTP/1.1" 304 0
+2025-02-23 10:12:05,457 [INFO]- "GET /facility_mgnstatic/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+2025-02-23 10:12:05,457 [INFO]- "GET /facility_mgnstatic/admin/css/responsive.css HTTP/1.1" 304 0
+2025-02-23 10:12:05,793 [INFO]- "GET /facility_mgnstatic/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+2025-02-23 10:12:07,819 [INFO]- "POST /admin/facility/report/1/delete/ HTTP/1.1" 302 0
+2025-02-23 10:12:07,889 [INFO]- "GET /admin/facility/report/ HTTP/1.1" 200 16038
+2025-02-23 10:12:08,039 [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+2025-02-23 10:12:10,546 [INFO]- "GET /admin/facility/report/1/delete/ HTTP/1.1" 302 0
+2025-02-23 10:12:10,595 [INFO]- "GET /admin/ HTTP/1.1" 200 11981
+2025-02-23 10:12:11,054 [INFO]- "GET /facility_mgnstatic/admin/img/icon-alert.svg HTTP/1.1" 200 504
+2025-02-23 10:12:13,528 [INFO]- "GET /admin/accounts/ HTTP/1.1" 200 5915
+2025-02-23 10:12:13,773 [INFO]- "GET /facility_mgnstatic/admin/css/dashboard.css HTTP/1.1" 304 0
+2025-02-23 10:12:18,076 [INFO]- "GET /admin/ HTTP/1.1" 200 11805
+2025-02-23 10:12:20,461 [INFO]- "GET /admin/accounts/department/ HTTP/1.1" 200 17197
+2025-02-23 10:12:20,760 [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+2025-02-23 10:12:23,481 [INFO]- "GET /admin/accounts/department/1/change/ HTTP/1.1" 200 16359
+2025-02-23 10:12:23,843 [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+2025-02-23 10:12:26,011 [INFO]- "GET /admin/accounts/department/ HTTP/1.1" 200 17197
+2025-02-23 10:12:33,796 [INFO]- "POST /admin/accounts/department/ HTTP/1.1" 200 9471
+2025-02-23 10:12:36,127 [INFO]- "GET /admin/facility/report/2/change/ HTTP/1.1" 200 20569
+2025-02-23 10:12:36,376 [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+2025-02-23 10:12:39,725 [INFO]- "GET /admin/facility/report/2/delete/ HTTP/1.1" 200 9882
+2025-02-23 10:12:40,044 [INFO]- "GET /facility_mgnstatic/admin/js/jquery.init.js HTTP/1.1" 304 0
+2025-02-23 10:12:40,044 [INFO]- "GET /facility_mgnstatic/admin/js/core.js HTTP/1.1" 304 0
+2025-02-23 10:12:40,045 [INFO]- "GET /facility_mgnstatic/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+2025-02-23 10:12:40,046 [INFO]- "GET /facility_mgnstatic/admin/js/urlify.js HTTP/1.1" 304 0
+2025-02-23 10:12:40,047 [INFO]- "GET /facility_mgnstatic/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+2025-02-23 10:12:40,047 [INFO]- "GET /facility_mgnstatic/admin/js/actions.js HTTP/1.1" 304 0
+2025-02-23 10:12:40,061 [INFO]- "GET /facility_mgnstatic/admin/js/prepopulate.js HTTP/1.1" 304 0
+2025-02-23 10:12:40,061 [INFO]- "GET /facility_mgnstatic/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+2025-02-23 10:12:41,934 [INFO]- "POST /admin/facility/report/2/delete/ HTTP/1.1" 302 0
+2025-02-23 10:12:41,974 [INFO]- "GET /admin/facility/report/ HTTP/1.1" 200 15392
+2025-02-23 10:12:42,046 [INFO]- "GET /facility_mgnstatic/admin/css/changelists.css HTTP/1.1" 304 0
+2025-02-23 10:12:42,054 [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+2025-02-23 10:12:42,364 [INFO]- "GET /facility_mgnstatic/admin/js/filters.js HTTP/1.1" 304 0
+2025-02-23 10:12:51,966 [INFO]- "GET /admin/accounts/department/ HTTP/1.1" 200 17197
+2025-02-23 10:12:52,258 [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+2025-02-23 10:12:59,726 [INFO]- "POST /admin/accounts/department/ HTTP/1.1" 200 9380
+2025-02-23 10:13:02,909 [INFO]- "GET /admin/facility/report/5/change/ HTTP/1.1" 200 20308
+2025-02-23 10:13:03,072 [INFO]- "GET /facility_mgnstatic/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+2025-02-23 10:13:03,079 [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+2025-02-23 10:13:07,358 [INFO]- "GET /admin/facility/report/5/delete/ HTTP/1.1" 200 9891
+2025-02-23 10:13:10,876 [INFO]- "POST /admin/facility/report/5/delete/ HTTP/1.1" 302 0
+2025-02-23 10:13:10,904 [INFO]- "GET /admin/facility/report/ HTTP/1.1" 200 12441
+2025-02-23 10:13:11,099 [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+2025-02-23 10:13:13,211 [INFO]- "GET /admin/accounts/department/ HTTP/1.1" 200 17197
+2025-02-23 10:13:13,359 [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+2025-02-23 10:13:20,409 [INFO]- "POST /admin/accounts/department/ HTTP/1.1" 200 9970
+2025-02-23 10:13:23,548 [INFO]- "POST /admin/accounts/department/ HTTP/1.1" 302 0
+2025-02-23 10:13:23,582 [INFO]- "GET /admin/accounts/department/ HTTP/1.1" 200 16781
+2025-02-23 10:13:23,847 [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+2025-02-23 10:13:27,035 [INFO]- "GET /register/ HTTP/1.1" 200 5111
+2025-02-23 10:14:20,054 [INFO]- "POST /register/ HTTP/1.1" 302 0
+2025-02-23 10:14:20,074 [INFO]- "GET /login/ HTTP/1.1" 200 3949
+2025-02-23 10:14:20,153 [INFO]- "GET /facility_mgnstatic/assets/css/bootstrap.css HTTP/1.1" 304 0
+2025-02-23 10:14:20,177 [INFO]- "GET /facility_mgnstatic/assets/js/morris/morris-0.4.3.min.css HTTP/1.1" 304 0
+2025-02-23 10:14:20,184 [INFO]- "GET /facility_mgnstatic/assets/css/font-awesome.css HTTP/1.1" 304 0
+2025-02-23 10:14:20,190 [INFO]- "GET /facility_mgnstatic/assets/css/custom-styles.css HTTP/1.1" 304 0
+2025-02-23 10:14:20,195 [INFO]- "GET /facility_mgnstatic/assets/js/jquery-1.10.2.js HTTP/1.1" 304 0
+2025-02-23 10:14:20,203 [INFO]- "GET /facility_mgnstatic/assets/js/bootstrap.min.js HTTP/1.1" 304 0
+2025-02-23 10:14:20,221 [INFO]- "GET /facility_mgnstatic/assets/js/jquery.metisMenu.js HTTP/1.1" 304 0
+2025-02-23 10:14:20,253 [INFO]- "GET /facility_mgnstatic/assets/js/morris/raphael-2.1.0.min.js HTTP/1.1" 304 0
+2025-02-23 10:14:20,255 [INFO]- "GET /facility_mgnstatic/assets/js/morris/morris.js HTTP/1.1" 304 0
+2025-02-23 10:14:20,284 [INFO]- "GET /facility_mgnstatic/assets/js/custom-scripts.js HTTP/1.1" 304 0
+2025-02-23 10:14:21,045 [INFO]- "GET /facility_mgnstatic/core/repairman.webp HTTP/1.1" 304 0
+2025-02-23 10:14:37,672 [INFO]- "GET /admin/accounts/user/ HTTP/1.1" 200 17267
+2025-02-23 10:14:37,870 [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+2025-02-23 10:14:37,955 [INFO]- "GET /facility_mgnstatic/admin/img/icon-no.svg HTTP/1.1" 200 560
+2025-02-23 10:14:38,001 [INFO]- "GET /facility_mgnstatic/admin/img/search.svg HTTP/1.1" 200 458
+2025-02-23 10:14:38,167 [INFO]- "GET /facility_mgnstatic/admin/img/icon-yes.svg HTTP/1.1" 304 0
+2025-02-23 10:14:38,251 [INFO]- "GET /facility_mgnstatic/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+2025-02-23 10:14:38,256 [INFO]- "GET /facility_mgnstatic/admin/img/sorting-icons.svg HTTP/1.1" 304 0
+2025-02-23 10:15:02,120 [INFO]- "POST /login/ HTTP/1.1" 302 0
+2025-02-23 10:15:02,138 [INFO]- "GET /dashboard/ HTTP/1.1" 302 0
+2025-02-23 10:15:02,192 [INFO]- "GET /dashboard/student/ HTTP/1.1" 200 7834
+2025-02-23 10:15:03,061 [INFO]- "GET /facility_mgnstatic/assets/font-awesome/fonts/fontawesome-webfontba72.woff?v=4.0.3 HTTP/1.1" 200 44432
+2025-02-23 10:15:09,726 [ERROR]- Internal Server Error: /facility/report/add/
+Traceback (most recent call last):
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\backends\django.py", line 107, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\test\utils.py", line 114, in instrumented_test_render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 1008, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 969, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\test\utils.py", line 114, in instrumented_test_render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 1008, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 969, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\loader_tags.py", line 65, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 1008, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 969, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 1067, in render
+    output = self.filter_expression.resolve(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 745, in resolve
+    new_obj = func(obj, *arg_vals)
+              ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\crispy_forms\templatetags\crispy_forms_filters.py", line 58, in as_crispy_form
+    template = uni_form_template(template_pack)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\crispy_forms\templatetags\crispy_forms_filters.py", line 21, in uni_form_template
+    return get_template("%s/uni_form.html" % template_pack)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: bootstrap4/uni_form.html
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\contrib\auth\mixins.py", line 73, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\Desktop\schollproject\facility\views.py", line 45, in get
+    return render(request=self.request, template_name=self.template_name, context=context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\backends\django.py", line 109, in render
+    reraise(exc, self.backend)
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\backends\django.py", line 130, in reraise
+    raise new from exc
+django.template.exceptions.TemplateDoesNotExist: bootstrap4/uni_form.html
+2025-02-23 10:15:09,726 [ERROR]- Internal Server Error: /facility/report/add/
+Traceback (most recent call last):
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\backends\django.py", line 107, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\test\utils.py", line 114, in instrumented_test_render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 1008, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 969, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\test\utils.py", line 114, in instrumented_test_render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 1008, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 969, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\loader_tags.py", line 65, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 1008, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 969, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 1067, in render
+    output = self.filter_expression.resolve(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 745, in resolve
+    new_obj = func(obj, *arg_vals)
+              ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\crispy_forms\templatetags\crispy_forms_filters.py", line 58, in as_crispy_form
+    template = uni_form_template(template_pack)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\crispy_forms\templatetags\crispy_forms_filters.py", line 21, in uni_form_template
+    return get_template("%s/uni_form.html" % template_pack)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: bootstrap4/uni_form.html
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\contrib\auth\mixins.py", line 73, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\Desktop\schollproject\facility\views.py", line 45, in get
+    return render(request=self.request, template_name=self.template_name, context=context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\backends\django.py", line 109, in render
+    reraise(exc, self.backend)
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\backends\django.py", line 130, in reraise
+    raise new from exc
+django.template.exceptions.TemplateDoesNotExist: bootstrap4/uni_form.html
+2025-02-23 10:15:09,744 [ERROR]- "GET /facility/report/add/ HTTP/1.1" 500 194957
+2025-02-23 10:18:41,121 [INFO]- Watching for file changes with StatReloader
+2025-02-23 10:18:47,458 [ERROR]- Internal Server Error: /facility/report/add/
+Traceback (most recent call last):
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\backends\django.py", line 107, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\test\utils.py", line 114, in instrumented_test_render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 1008, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 969, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\test\utils.py", line 114, in instrumented_test_render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 1008, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 969, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\loader_tags.py", line 65, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 1008, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 969, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 1067, in render
+    output = self.filter_expression.resolve(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 745, in resolve
+    new_obj = func(obj, *arg_vals)
+              ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\crispy_forms\templatetags\crispy_forms_filters.py", line 58, in as_crispy_form
+    template = uni_form_template(template_pack)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\crispy_forms\templatetags\crispy_forms_filters.py", line 21, in uni_form_template
+    return get_template("%s/uni_form.html" % template_pack)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: bootstrap4/uni_form.html
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\contrib\auth\mixins.py", line 73, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\Desktop\schollproject\facility\views.py", line 45, in get
+    return render(request=self.request, template_name=self.template_name, context=context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\backends\django.py", line 109, in render
+    reraise(exc, self.backend)
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\backends\django.py", line 130, in reraise
+    raise new from exc
+django.template.exceptions.TemplateDoesNotExist: bootstrap4/uni_form.html
+2025-02-23 10:18:47,458 [ERROR]- Internal Server Error: /facility/report/add/
+Traceback (most recent call last):
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\backends\django.py", line 107, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\test\utils.py", line 114, in instrumented_test_render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 1008, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 969, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\test\utils.py", line 114, in instrumented_test_render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 1008, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 969, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\loader_tags.py", line 65, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 1008, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 969, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 1067, in render
+    output = self.filter_expression.resolve(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 745, in resolve
+    new_obj = func(obj, *arg_vals)
+              ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\crispy_forms\templatetags\crispy_forms_filters.py", line 58, in as_crispy_form
+    template = uni_form_template(template_pack)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\crispy_forms\templatetags\crispy_forms_filters.py", line 21, in uni_form_template
+    return get_template("%s/uni_form.html" % template_pack)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: bootstrap4/uni_form.html
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\contrib\auth\mixins.py", line 73, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\Desktop\schollproject\facility\views.py", line 45, in get
+    return render(request=self.request, template_name=self.template_name, context=context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\backends\django.py", line 109, in render
+    reraise(exc, self.backend)
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\backends\django.py", line 130, in reraise
+    raise new from exc
+django.template.exceptions.TemplateDoesNotExist: bootstrap4/uni_form.html
+2025-02-23 10:18:47,475 [ERROR]- "GET /facility/report/add/ HTTP/1.1" 500 195094
+2025-02-23 10:19:50,371 [INFO]- Watching for file changes with StatReloader
+2025-02-23 10:19:54,023 [ERROR]- Internal Server Error: /facility/report/add/
+Traceback (most recent call last):
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\backends\django.py", line 107, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\test\utils.py", line 114, in instrumented_test_render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 1008, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 969, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\test\utils.py", line 114, in instrumented_test_render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 1008, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 969, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\loader_tags.py", line 65, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 1008, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 969, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 1067, in render
+    output = self.filter_expression.resolve(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 745, in resolve
+    new_obj = func(obj, *arg_vals)
+              ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\crispy_forms\templatetags\crispy_forms_filters.py", line 58, in as_crispy_form
+    template = uni_form_template(template_pack)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\crispy_forms\templatetags\crispy_forms_filters.py", line 21, in uni_form_template
+    return get_template("%s/uni_form.html" % template_pack)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: bootstrap4/uni_form.html
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\contrib\auth\mixins.py", line 73, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\Desktop\schollproject\facility\views.py", line 45, in get
+    return render(request=self.request, template_name=self.template_name, context=context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\backends\django.py", line 109, in render
+    reraise(exc, self.backend)
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\backends\django.py", line 130, in reraise
+    raise new from exc
+django.template.exceptions.TemplateDoesNotExist: bootstrap4/uni_form.html
+2025-02-23 10:19:54,023 [ERROR]- Internal Server Error: /facility/report/add/
+Traceback (most recent call last):
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\backends\django.py", line 107, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\test\utils.py", line 114, in instrumented_test_render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 1008, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 969, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\test\utils.py", line 114, in instrumented_test_render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 1008, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 969, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\loader_tags.py", line 65, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 1008, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 969, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 1067, in render
+    output = self.filter_expression.resolve(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 745, in resolve
+    new_obj = func(obj, *arg_vals)
+              ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\crispy_forms\templatetags\crispy_forms_filters.py", line 58, in as_crispy_form
+    template = uni_form_template(template_pack)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\crispy_forms\templatetags\crispy_forms_filters.py", line 21, in uni_form_template
+    return get_template("%s/uni_form.html" % template_pack)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: bootstrap4/uni_form.html
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\contrib\auth\mixins.py", line 73, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\Desktop\schollproject\facility\views.py", line 45, in get
+    return render(request=self.request, template_name=self.template_name, context=context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\backends\django.py", line 109, in render
+    reraise(exc, self.backend)
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\backends\django.py", line 130, in reraise
+    raise new from exc
+django.template.exceptions.TemplateDoesNotExist: bootstrap4/uni_form.html
+2025-02-23 10:19:54,056 [ERROR]- "GET /facility/report/add/ HTTP/1.1" 500 195094
+2025-02-23 10:29:05,616 [INFO]- Watching for file changes with StatReloader
+2025-02-23 10:29:14,564 [INFO]- "GET /dashboard/student/ HTTP/1.1" 200 7720
+2025-02-23 10:29:14,638 [INFO]- "GET /facility_mgnstatic/assets/css/bootstrap.css HTTP/1.1" 304 0
+2025-02-23 10:29:14,661 [INFO]- "GET /facility_mgnstatic/assets/css/font-awesome.css HTTP/1.1" 304 0
+2025-02-23 10:29:14,662 [INFO]- "GET /facility_mgnstatic/assets/js/morris/morris-0.4.3.min.css HTTP/1.1" 304 0
+2025-02-23 10:29:14,666 [INFO]- "GET /facility_mgnstatic/assets/css/custom-styles.css HTTP/1.1" 304 0
+2025-02-23 10:29:14,670 [INFO]- "GET /facility_mgnstatic/assets/js/jquery-1.10.2.js HTTP/1.1" 304 0
+2025-02-23 10:29:14,672 [INFO]- "GET /facility_mgnstatic/assets/js/bootstrap.min.js HTTP/1.1" 304 0
+2025-02-23 10:29:14,676 [INFO]- "GET /facility_mgnstatic/assets/js/jquery.metisMenu.js HTTP/1.1" 304 0
+2025-02-23 10:29:14,677 [INFO]- "GET /facility_mgnstatic/assets/js/morris/raphael-2.1.0.min.js HTTP/1.1" 304 0
+2025-02-23 10:29:14,684 [INFO]- "GET /facility_mgnstatic/assets/js/morris/morris.js HTTP/1.1" 304 0
+2025-02-23 10:29:14,684 [INFO]- "GET /facility_mgnstatic/assets/js/custom-scripts.js HTTP/1.1" 304 0
+2025-02-23 10:29:15,425 [INFO]- "GET /facility_mgnstatic/assets/font-awesome/fonts/fontawesome-webfontba72.woff?v=4.0.3 HTTP/1.1" 304 0
+2025-02-23 10:29:17,572 [ERROR]- Internal Server Error: /facility/report/add/
+Traceback (most recent call last):
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\backends\django.py", line 107, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\test\utils.py", line 114, in instrumented_test_render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 1008, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 969, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\test\utils.py", line 114, in instrumented_test_render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 1008, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 969, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\loader_tags.py", line 65, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 1008, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 969, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 1067, in render
+    output = self.filter_expression.resolve(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 745, in resolve
+    new_obj = func(obj, *arg_vals)
+              ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\crispy_forms\templatetags\crispy_forms_filters.py", line 58, in as_crispy_form
+    template = uni_form_template(template_pack)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\crispy_forms\templatetags\crispy_forms_filters.py", line 21, in uni_form_template
+    return get_template("%s/uni_form.html" % template_pack)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: bootstrap4/uni_form.html
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\contrib\auth\mixins.py", line 73, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\Desktop\schollproject\facility\views.py", line 45, in get
+    return render(request=self.request, template_name=self.template_name, context=context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\backends\django.py", line 109, in render
+    reraise(exc, self.backend)
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\backends\django.py", line 130, in reraise
+    raise new from exc
+django.template.exceptions.TemplateDoesNotExist: bootstrap4/uni_form.html
+2025-02-23 10:29:17,572 [ERROR]- Internal Server Error: /facility/report/add/
+Traceback (most recent call last):
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\backends\django.py", line 107, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\test\utils.py", line 114, in instrumented_test_render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 1008, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 969, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\test\utils.py", line 114, in instrumented_test_render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 1008, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 969, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\loader_tags.py", line 65, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 1008, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 969, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 1067, in render
+    output = self.filter_expression.resolve(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\base.py", line 745, in resolve
+    new_obj = func(obj, *arg_vals)
+              ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\crispy_forms\templatetags\crispy_forms_filters.py", line 58, in as_crispy_form
+    template = uni_form_template(template_pack)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\crispy_forms\templatetags\crispy_forms_filters.py", line 21, in uni_form_template
+    return get_template("%s/uni_form.html" % template_pack)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: bootstrap4/uni_form.html
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\contrib\auth\mixins.py", line 73, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\Desktop\schollproject\facility\views.py", line 45, in get
+    return render(request=self.request, template_name=self.template_name, context=context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\backends\django.py", line 109, in render
+    reraise(exc, self.backend)
+  File "C:\Users\CITADLAB16\AppData\Roaming\Python\Python312\site-packages\django\template\backends\django.py", line 130, in reraise
+    raise new from exc
+django.template.exceptions.TemplateDoesNotExist: bootstrap4/uni_form.html
+2025-02-23 10:29:17,598 [ERROR]- "GET /facility/report/add/ HTTP/1.1" 500 194957
+2025-02-23 10:29:37,547 [INFO]- "GET /facility/report/add/ HTTP/1.1" 200 4788
+2025-02-23 10:29:44,804 [INFO]- "POST /facility/report/add/ HTTP/1.1" 200 4914
+2025-02-23 10:31:10,026 [INFO]- "POST /facility/report/add/ HTTP/1.1" 200 6025
+2025-02-23 10:31:15,624 [INFO]- "GET /facility/report/add/ HTTP/1.1" 200 5659
+2025-02-23 10:31:18,285 [INFO]- "GET /facility/report/list/?user_type=student HTTP/1.1" 200 5757
+2025-02-23 10:31:20,107 [INFO]- "GET /facility/report/add/ HTTP/1.1" 200 5659
+2025-02-23 10:31:38,958 [INFO]- "POST /facility/report/add/ HTTP/1.1" 302 0
+2025-02-23 10:31:39,021 [INFO]- "GET /facility/report/list/ HTTP/1.1" 200 6419
+2025-02-23 10:31:52,709 [INFO]- "GET /facility/report/list/?user_type=technician HTTP/1.1" 200 5700
+2025-02-23 10:31:54,089 [INFO]- "GET /facility/report/add/ HTTP/1.1" 200 5659
+2025-02-23 10:31:57,942 [INFO]- "GET /dashboard/ HTTP/1.1" 302 0
+2025-02-23 10:31:57,972 [INFO]- "GET /dashboard/student/ HTTP/1.1" 200 8541
+2025-02-23 10:32:19,104 [INFO]- "GET /facility/report/list/?user_type=student HTTP/1.1" 200 6578
+2025-02-23 10:32:28,054 [INFO]- "GET /dashboard/ HTTP/1.1" 302 0
+2025-02-23 10:32:28,101 [INFO]- "GET /dashboard/student/ HTTP/1.1" 200 8541
+2025-02-23 10:32:33,519 [WARNING]- Method Not Allowed (GET): /logout/
+2025-02-23 10:32:33,519 [WARNING]- Method Not Allowed (GET): /logout/
+2025-02-23 10:32:33,523 [WARNING]- Method Not Allowed: /logout/
+2025-02-23 10:32:33,523 [WARNING]- Method Not Allowed: /logout/
+2025-02-23 10:32:33,525 [WARNING]- "GET /logout/ HTTP/1.1" 405 0
+2025-02-23 10:32:44,448 [INFO]- Watching for file changes with StatReloader
+2025-02-23 10:32:46,403 [WARNING]- Method Not Allowed (GET): /logout/
+2025-02-23 10:32:46,403 [WARNING]- Method Not Allowed (GET): /logout/
+2025-02-23 10:32:46,403 [WARNING]- Method Not Allowed: /logout/
+2025-02-23 10:32:46,403 [WARNING]- Method Not Allowed: /logout/
+2025-02-23 10:32:46,419 [WARNING]- "GET /logout/ HTTP/1.1" 405 0
+2025-02-23 10:32:54,497 [WARNING]- Method Not Allowed (GET): /logout/
+2025-02-23 10:32:54,497 [WARNING]- Method Not Allowed (GET): /logout/
+2025-02-23 10:32:54,501 [WARNING]- Method Not Allowed: /logout/
+2025-02-23 10:32:54,501 [WARNING]- Method Not Allowed: /logout/
+2025-02-23 10:32:54,505 [WARNING]- "GET /logout/ HTTP/1.1" 405 0
+2025-02-23 10:35:33,252 [INFO]- C:\Users\CITADLAB16\Desktop\schollproject\accounts\urls.py changed, reloading.
+2025-02-23 10:35:42,428 [INFO]- Watching for file changes with StatReloader
+2025-02-23 10:35:46,279 [WARNING]- Method Not Allowed (GET): /logout/
+2025-02-23 10:35:46,279 [WARNING]- Method Not Allowed (GET): /logout/
+2025-02-23 10:35:46,296 [WARNING]- Method Not Allowed: /logout/
+2025-02-23 10:35:46,296 [WARNING]- Method Not Allowed: /logout/
+2025-02-23 10:35:46,296 [WARNING]- "GET /logout/ HTTP/1.1" 405 0
+2025-02-23 10:36:31,266 [INFO]- C:\Users\CITADLAB16\Desktop\schollproject\accounts\urls.py changed, reloading.
+2025-02-23 10:36:35,902 [INFO]- Watching for file changes with StatReloader
+2025-02-23 10:36:45,335 [WARNING]- Method Not Allowed (GET): /logout/
+2025-02-23 10:36:45,335 [WARNING]- Method Not Allowed (GET): /logout/
+2025-02-23 10:36:45,339 [WARNING]- Method Not Allowed: /logout/
+2025-02-23 10:36:45,339 [WARNING]- Method Not Allowed: /logout/
+2025-02-23 10:36:45,342 [WARNING]- "GET /logout/ HTTP/1.1" 405 0
+2025-02-23 10:36:53,911 [WARNING]- Method Not Allowed (GET): /logout/
+2025-02-23 10:36:53,911 [WARNING]- Method Not Allowed (GET): /logout/
+2025-02-23 10:36:53,911 [WARNING]- Method Not Allowed: /logout/
+2025-02-23 10:36:53,911 [WARNING]- Method Not Allowed: /logout/
+2025-02-23 10:36:53,926 [WARNING]- "GET /logout/ HTTP/1.1" 405 0
+2025-02-23 10:37:00,240 [INFO]- "GET / HTTP/1.1" 200 3830
+2025-02-23 10:37:00,457 [INFO]- "GET /facility_mgnstatic/assets/css/bootstrap.css HTTP/1.1" 304 0
+2025-02-23 10:37:00,458 [INFO]- "GET /facility_mgnstatic/assets/css/font-awesome.css HTTP/1.1" 304 0
+2025-02-23 10:37:00,462 [INFO]- "GET /facility_mgnstatic/assets/js/morris/morris-0.4.3.min.css HTTP/1.1" 304 0
+2025-02-23 10:37:00,463 [INFO]- "GET /facility_mgnstatic/assets/css/custom-styles.css HTTP/1.1" 304 0
+2025-02-23 10:37:00,468 [INFO]- "GET /facility_mgnstatic/assets/js/bootstrap.min.js HTTP/1.1" 304 0
+2025-02-23 10:37:00,468 [INFO]- "GET /facility_mgnstatic/assets/js/jquery-1.10.2.js HTTP/1.1" 304 0
+2025-02-23 10:37:00,475 [INFO]- "GET /facility_mgnstatic/assets/js/jquery.metisMenu.js HTTP/1.1" 304 0
+2025-02-23 10:37:00,475 [INFO]- "GET /facility_mgnstatic/assets/js/morris/raphael-2.1.0.min.js HTTP/1.1" 304 0
+2025-02-23 10:37:00,475 [INFO]- "GET /facility_mgnstatic/assets/js/morris/morris.js HTTP/1.1" 304 0
+2025-02-23 10:37:00,491 [INFO]- "GET /facility_mgnstatic/assets/js/custom-scripts.js HTTP/1.1" 304 0
+2025-02-23 10:37:00,818 [INFO]- "GET /facility_mgnstatic/core/repairman.webp HTTP/1.1" 304 0
+2025-02-23 10:37:05,254 [INFO]- "GET /register/ HTTP/1.1" 200 5111
+2025-02-23 10:37:17,270 [INFO]- "GET /login/ HTTP/1.1" 200 3830
+2025-02-23 10:39:12,301 [INFO]- "GET /register/ HTTP/1.1" 200 5111
+2025-02-23 10:42:09,515 [INFO]- "GET /login/ HTTP/1.1" 200 3830
+2025-02-23 10:42:13,259 [INFO]- "GET /register/ HTTP/1.1" 200 5111
+2025-02-23 10:42:32,871 [INFO]- "GET /admin/accounts/user/ HTTP/1.1" 200 17267
+2025-02-23 10:42:32,957 [INFO]- "GET /facility_mgnstatic/admin/css/base.css HTTP/1.1" 304 0
+2025-02-23 10:42:32,957 [INFO]- "GET /facility_mgnstatic/admin/css/dark_mode.css HTTP/1.1" 304 0
+2025-02-23 10:42:32,966 [INFO]- "GET /facility_mgnstatic/admin/css/responsive.css HTTP/1.1" 304 0
+2025-02-23 10:42:32,968 [INFO]- "GET /facility_mgnstatic/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+2025-02-23 10:42:32,973 [INFO]- "GET /facility_mgnstatic/admin/js/jquery.init.js HTTP/1.1" 304 0
+2025-02-23 10:42:32,974 [INFO]- "GET /facility_mgnstatic/admin/js/core.js HTTP/1.1" 304 0
+2025-02-23 10:42:32,980 [INFO]- "GET /facility_mgnstatic/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+2025-02-23 10:42:32,981 [INFO]- "GET /facility_mgnstatic/admin/js/actions.js HTTP/1.1" 304 0
+2025-02-23 10:42:32,985 [INFO]- "GET /facility_mgnstatic/admin/js/urlify.js HTTP/1.1" 304 0
+2025-02-23 10:42:32,989 [INFO]- "GET /facility_mgnstatic/admin/js/prepopulate.js HTTP/1.1" 304 0
+2025-02-23 10:42:32,992 [INFO]- "GET /facility_mgnstatic/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+2025-02-23 10:42:32,992 [INFO]- "GET /facility_mgnstatic/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+2025-02-23 10:42:33,009 [INFO]- "GET /facility_mgnstatic/admin/js/theme.js HTTP/1.1" 304 0
+2025-02-23 10:42:33,009 [INFO]- "GET /facility_mgnstatic/admin/css/changelists.css HTTP/1.1" 304 0
+2025-02-23 10:42:33,052 [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+2025-02-23 10:42:33,150 [INFO]- "GET /facility_mgnstatic/admin/img/icon-no.svg HTTP/1.1" 304 0
+2025-02-23 10:42:33,210 [INFO]- "GET /facility_mgnstatic/admin/img/search.svg HTTP/1.1" 304 0
+2025-02-23 10:42:33,575 [INFO]- "GET /facility_mgnstatic/admin/img/icon-yes.svg HTTP/1.1" 304 0
+2025-02-23 10:42:33,628 [INFO]- "GET /facility_mgnstatic/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+2025-02-23 10:42:33,628 [INFO]- "GET /facility_mgnstatic/admin/js/filters.js HTTP/1.1" 304 0
+2025-02-23 10:42:33,743 [INFO]- "GET /facility_mgnstatic/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+2025-02-23 10:42:33,744 [INFO]- "GET /facility_mgnstatic/admin/img/sorting-icons.svg HTTP/1.1" 304 0
+2025-02-23 10:42:33,744 [INFO]- "GET /facility_mgnstatic/admin/img/tooltag-add.svg HTTP/1.1" 304 0
