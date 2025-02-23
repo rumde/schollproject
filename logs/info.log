@@ -13716,3 +13716,262 @@ django.template.exceptions.TemplateDoesNotExist: bootstrap4/uni_form.html
 2025-02-09 17:39:08,489 [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 3342
 2025-02-09 17:39:12,173 [INFO]- "GET /admin/accounts/user/ HTTP/1.1" 200 16061
 2025-02-09 17:39:12,203 [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+2025-02-12 19:11:52,686 [INFO]- Watching for file changes with StatReloader
+2025-02-12 19:14:05,017 [INFO]- Watching for file changes with StatReloader
+2025-02-12 19:14:09,501 [INFO]- "GET / HTTP/1.1" 200 3830
+2025-02-12 19:14:09,567 [INFO]- "GET /facility_mgnstatic/assets/css/font-awesome.css HTTP/1.1" 200 21743
+2025-02-12 19:14:09,569 [INFO]- "GET /facility_mgnstatic/assets/css/bootstrap.css HTTP/1.1" 200 126499
+2025-02-12 19:14:09,605 [INFO]- "GET /facility_mgnstatic/assets/js/morris/raphael-2.1.0.min.js HTTP/1.1" 200 90647
+2025-02-12 19:14:09,624 [INFO]- "GET /facility_mgnstatic/assets/js/jquery.metisMenu.js HTTP/1.1" 200 1386
+2025-02-12 19:14:09,691 [INFO]- "GET /facility_mgnstatic/assets/js/custom-scripts.js HTTP/1.1" 200 5909
+2025-02-12 19:14:09,730 [INFO]- "GET /facility_mgnstatic/assets/js/morris/morris.js HTTP/1.1" 200 67203
+2025-02-12 19:14:09,740 [INFO]- "GET /facility_mgnstatic/assets/js/bootstrap.min.js HTTP/1.1" 200 29097
+2025-02-12 19:14:09,761 [INFO]- "GET /facility_mgnstatic/assets/css/custom-styles.css HTTP/1.1" 200 7745
+2025-02-12 19:14:09,762 [INFO]- "GET /facility_mgnstatic/assets/js/morris/morris-0.4.3.min.css HTTP/1.1" 200 443
+2025-02-12 19:14:09,872 [INFO]- "GET /facility_mgnstatic/assets/js/jquery-1.10.2.js HTTP/1.1" 200 293285
+2025-02-12 19:14:30,718 [INFO]- "GET /facility_mgnstatic/core/repairman.webp HTTP/1.1" 200 178036
+2025-02-12 19:14:30,825 [WARNING]- Not Found: /favicon.ico
+2025-02-12 19:14:30,825 [WARNING]- Not Found: /favicon.ico
+2025-02-12 19:14:30,828 [WARNING]- "GET /favicon.ico HTTP/1.1" 404 4701
+2025-02-12 19:14:43,250 [INFO]- "POST /login/ HTTP/1.1" 302 0
+2025-02-12 19:14:43,268 [INFO]- "GET /dashboard/ HTTP/1.1" 302 0
+2025-02-12 19:14:43,352 [INFO]- "GET /dashboard/student/ HTTP/1.1" 200 7834
+2025-02-12 19:15:04,476 [INFO]- "GET /facility_mgnstatic/assets/font-awesome/fonts/fontawesome-webfontba72.woff?v=4.0.3 HTTP/1.1" 200 44432
+2025-02-12 19:17:35,424 [WARNING]- Not Found: /dashboard/admin
+2025-02-12 19:17:35,424 [WARNING]- Not Found: /dashboard/admin
+2025-02-12 19:17:35,441 [WARNING]- "GET /dashboard/admin HTTP/1.1" 404 4713
+2025-02-12 19:17:44,786 [WARNING]- Not Found: /dashboard/admin/
+2025-02-12 19:17:44,786 [WARNING]- Not Found: /dashboard/admin/
+2025-02-12 19:17:44,799 [WARNING]- "GET /dashboard/admin/ HTTP/1.1" 404 4716
+2025-02-12 19:18:08,590 [WARNING]- Not Found: /dashboard/admin/
+2025-02-12 19:18:08,590 [WARNING]- Not Found: /dashboard/admin/
+2025-02-12 19:18:08,594 [WARNING]- "GET /dashboard/admin/ HTTP/1.1" 404 4716
+2025-02-12 19:19:54,155 [WARNING]- Not Found: /dashboard/admin/
+2025-02-12 19:19:54,155 [WARNING]- Not Found: /dashboard/admin/
+2025-02-12 19:19:54,184 [WARNING]- "GET /dashboard/admin/ HTTP/1.1" 404 4716
+2025-02-12 19:20:13,899 [WARNING]- Not Found: /dashboard/admin/
+2025-02-12 19:20:13,899 [WARNING]- Not Found: /dashboard/admin/
+2025-02-12 19:20:13,907 [WARNING]- "GET /dashboard/admin/ HTTP/1.1" 404 4716
+2025-02-12 19:22:21,208 [INFO]- Watching for file changes with StatReloader
+2025-02-12 19:22:37,129 [INFO]- "GET / HTTP/1.1" 200 3830
+2025-02-12 19:23:04,277 [INFO]- "GET /register/ HTTP/1.1" 200 16346
+2025-02-12 19:26:24,823 [INFO]- "POST /register/ HTTP/1.1" 200 16706
+2025-02-17 10:56:23,953 [INFO]- Watching for file changes with StatReloader
+2025-02-17 10:56:43,599 [INFO]- "GET / HTTP/1.1" 200 3830
+2025-02-17 10:56:49,575 [WARNING]- Not Found: /favicon.ico
+2025-02-17 10:56:49,575 [WARNING]- Not Found: /favicon.ico
+2025-02-17 10:56:49,578 [WARNING]- "GET /favicon.ico HTTP/1.1" 404 4701
+2025-02-17 10:57:04,237 [INFO]- "GET /admin HTTP/1.1" 301 0
+2025-02-17 10:57:04,274 [INFO]- "GET /admin/ HTTP/1.1" 302 0
+2025-02-17 10:57:04,544 [INFO]- "GET /admin/login/?next=/admin/ HTTP/1.1" 200 3768
+2025-02-17 10:57:04,608 [INFO]- "GET /facility_mgnstatic/admin/css/dark_mode.css HTTP/1.1" 200 2804
+2025-02-17 10:57:04,625 [INFO]- "GET /facility_mgnstatic/admin/css/login.css HTTP/1.1" 200 951
+2025-02-17 10:57:04,627 [INFO]- "GET /facility_mgnstatic/admin/css/base.css HTTP/1.1" 200 22092
+2025-02-17 10:57:04,652 [INFO]- "GET /facility_mgnstatic/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+2025-02-17 10:57:04,666 [INFO]- "GET /facility_mgnstatic/admin/css/responsive.css HTTP/1.1" 200 17972
+2025-02-17 10:57:04,681 [INFO]- "GET /facility_mgnstatic/admin/js/theme.js HTTP/1.1" 200 1653
+2025-02-17 10:57:04,718 [INFO]- "GET /facility_mgnstatic/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+2025-02-17 10:57:39,067 [INFO]- "POST /admin/login/?next=/admin/ HTTP/1.1" 200 3958
+2025-02-17 10:58:18,155 [INFO]- "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+2025-02-17 10:58:18,229 [INFO]- "GET /admin/ HTTP/1.1" 200 9239
+2025-02-17 10:58:18,272 [INFO]- "GET /facility_mgnstatic/admin/css/dashboard.css HTTP/1.1" 200 441
+2025-02-17 10:58:18,307 [INFO]- "GET /facility_mgnstatic/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+2025-02-17 10:58:18,311 [INFO]- "GET /facility_mgnstatic/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+2025-02-17 11:19:31,322 [INFO]- "GET / HTTP/1.1" 200 3830
+2025-02-17 11:19:48,207 [INFO]- "POST /login/ HTTP/1.1" 302 0
+2025-02-17 11:19:48,222 [INFO]- "GET /dashboard/ HTTP/1.1" 302 0
+2025-02-17 11:19:48,332 [INFO]- "GET /dashboard/student/ HTTP/1.1" 200 7834
+2025-02-17 11:19:53,332 [INFO]- "GET /facility_mgnstatic/assets/font-awesome/fonts/fontawesome-webfontba72.woff?v=4.0.3 HTTP/1.1" 200 44432
+2025-02-17 11:47:59,637 [INFO]- "GET / HTTP/1.1" 200 3830
+2025-02-17 11:49:07,976 [INFO]- "GET /register/ HTTP/1.1" 200 16346
+2025-02-17 11:51:04,169 [INFO]- "GET /admin/ HTTP/1.1" 302 0
+2025-02-17 11:51:04,215 [INFO]- "GET /admin/login/?next=/admin/ HTTP/1.1" 200 3768
+2025-02-17 11:51:18,361 [INFO]- "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+2025-02-17 11:51:18,414 [INFO]- "GET /admin/ HTTP/1.1" 200 9239
+2025-02-17 11:52:16,056 [INFO]- "GET / HTTP/1.1" 200 3830
+2025-02-17 11:52:19,828 [INFO]- "POST /login/ HTTP/1.1" 302 0
+2025-02-17 11:52:19,850 [INFO]- "GET /dashboard/ HTTP/1.1" 302 0
+2025-02-17 11:52:19,902 [INFO]- "GET /dashboard/student/ HTTP/1.1" 200 7834
+2025-02-17 11:52:40,280 [ERROR]- Internal Server Error: /facility/report/add/
+Traceback (most recent call last):
+  File "C:\Users\User\Desktop\Django\venv\Lib\site-packages\django\template\backends\django.py", line 107, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\Django\venv\Lib\site-packages\django\test\utils.py", line 114, in instrumented_test_render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 1008, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 969, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\Django\venv\Lib\site-packages\django\template\loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\Django\venv\Lib\site-packages\django\test\utils.py", line 114, in instrumented_test_render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 1008, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 969, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\Django\venv\Lib\site-packages\django\template\loader_tags.py", line 65, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 1008, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 969, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 1067, in render
+    output = self.filter_expression.resolve(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 745, in resolve
+    new_obj = func(obj, *arg_vals)
+              ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\Django\venv\Lib\site-packages\crispy_forms\templatetags\crispy_forms_filters.py", line 58, in as_crispy_form
+    template = uni_form_template(template_pack)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\Django\venv\Lib\site-packages\crispy_forms\templatetags\crispy_forms_filters.py", line 21, in uni_form_template
+    return get_template("%s/uni_form.html" % template_pack)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\Django\venv\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: bootstrap4/uni_form.html
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\User\Desktop\Django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\Django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\Django\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\Django\venv\Lib\site-packages\django\contrib\auth\mixins.py", line 73, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\Django\venv\Lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\Django\facility\views.py", line 45, in get
+    return render(request=self.request, template_name=self.template_name, context=context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\Django\venv\Lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\Django\venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\Django\venv\Lib\site-packages\django\template\backends\django.py", line 109, in render
+    reraise(exc, self.backend)
+  File "C:\Users\User\Desktop\Django\venv\Lib\site-packages\django\template\backends\django.py", line 130, in reraise
+    raise new from exc
+django.template.exceptions.TemplateDoesNotExist: bootstrap4/uni_form.html
+2025-02-17 11:52:40,280 [ERROR]- Internal Server Error: /facility/report/add/
+Traceback (most recent call last):
+  File "C:\Users\User\Desktop\Django\venv\Lib\site-packages\django\template\backends\django.py", line 107, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\Django\venv\Lib\site-packages\django\test\utils.py", line 114, in instrumented_test_render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 1008, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 969, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\Django\venv\Lib\site-packages\django\template\loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\Django\venv\Lib\site-packages\django\test\utils.py", line 114, in instrumented_test_render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 1008, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 969, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\Django\venv\Lib\site-packages\django\template\loader_tags.py", line 65, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 1008, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 969, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 1067, in render
+    output = self.filter_expression.resolve(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\Django\venv\Lib\site-packages\django\template\base.py", line 745, in resolve
+    new_obj = func(obj, *arg_vals)
+              ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\Django\venv\Lib\site-packages\crispy_forms\templatetags\crispy_forms_filters.py", line 58, in as_crispy_form
+    template = uni_form_template(template_pack)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\Django\venv\Lib\site-packages\crispy_forms\templatetags\crispy_forms_filters.py", line 21, in uni_form_template
+    return get_template("%s/uni_form.html" % template_pack)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\Django\venv\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: bootstrap4/uni_form.html
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\User\Desktop\Django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\Django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\Django\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\Django\venv\Lib\site-packages\django\contrib\auth\mixins.py", line 73, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\Django\venv\Lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\Django\facility\views.py", line 45, in get
+    return render(request=self.request, template_name=self.template_name, context=context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\Django\venv\Lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\Django\venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\Django\venv\Lib\site-packages\django\template\backends\django.py", line 109, in render
+    reraise(exc, self.backend)
+  File "C:\Users\User\Desktop\Django\venv\Lib\site-packages\django\template\backends\django.py", line 130, in reraise
+    raise new from exc
+django.template.exceptions.TemplateDoesNotExist: bootstrap4/uni_form.html
+2025-02-17 11:52:40,295 [ERROR]- "GET /facility/report/add/ HTTP/1.1" 500 191567
+2025-02-17 14:05:19,828 [INFO]- Watching for file changes with StatReloader
+2025-02-17 14:05:43,262 [INFO]- "GET / HTTP/1.1" 200 3830
+2025-02-17 14:05:43,540 [WARNING]- Not Found: /favicon.ico
+2025-02-17 14:05:43,540 [WARNING]- Not Found: /favicon.ico
+2025-02-17 14:05:43,545 [WARNING]- "GET /favicon.ico HTTP/1.1" 404 4701
+2025-02-17 14:05:48,911 [INFO]- "GET /register/ HTTP/1.1" 200 16346
+2025-02-17 14:10:32,865 [INFO]- "GET /admin/ HTTP/1.1" 302 0
+2025-02-17 14:10:32,923 [INFO]- "GET /admin/login/?next=/admin/ HTTP/1.1" 200 3768
+2025-02-17 14:11:39,917 [INFO]- "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+2025-02-17 14:11:39,963 [INFO]- "GET /admin/ HTTP/1.1" 200 9239
